@@ -6,3 +6,5 @@ DAY  02:
 Learnt Variables i.e. int,  float, double, boolean, char.
 DAY 03:
 learnt about input in C++
+DAY 04:
+Learnt about operators in C++
