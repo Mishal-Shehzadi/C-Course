@@ -8,3 +8,5 @@ DAY 03:
 learnt about input in C++
 DAY 04:
 Learnt about operators in C++
+DAY 05:
+learnt strings in C++
