@@ -10,3 +10,5 @@ DAY 04:
 Learnt about operators in C++
 DAY 05:
 learnt strings in C++
+DAY 06:
+learnt maths and Boolean in C++
