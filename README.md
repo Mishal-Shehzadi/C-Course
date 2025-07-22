@@ -12,3 +12,5 @@ DAY 05:
 learnt strings in C++
 DAY 06:
 learnt maths and Boolean in C++
+DAY 07:
+learnt if and else in C++
