@@ -14,3 +14,5 @@ DAY 06:
 learnt maths and Boolean in C++
 DAY 07:
 learnt if and else in C++
+DAY 08:
+learnt switch in C++
