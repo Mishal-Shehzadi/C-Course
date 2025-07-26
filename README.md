@@ -20,3 +20,6 @@ DAY 09:
    learnt while loopin C++
 25-July:
    learnt do/while loop in C++
+26-July:
+   learntfor and nested loop in C++
+
