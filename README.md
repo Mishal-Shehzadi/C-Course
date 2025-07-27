@@ -21,5 +21,7 @@ DAY 09:
 25-July:
    learnt do/while loop in C++
 26-July:
-   learntfor and nested loop in C++
+   learnt for and nested loop in C++
+27-July:
+   practiced nested loop patterns
 
