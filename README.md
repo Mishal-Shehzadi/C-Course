@@ -1,7 +1,5 @@
 DAY 01:
-   1. Hello World
-   2. Sample 1
-   3. Print shape
+   Hello World
 DAY  02:
    learnt Variables i.e. int,  float, double, boolean, char.
 DAY 03:
