@@ -22,4 +22,5 @@ DAY 09:
   • learnt for and nested loop in C++
 27-July:
   • Practiced nested loop patterns
-
+28-July:
+   Practiced nested loop patterns.
