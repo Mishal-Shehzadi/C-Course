@@ -26,3 +26,5 @@ DAY 09:
   Practiced nested loop patterns.
 29-July:
   Practiced different pyramids of * and a hollow square pattern in C++
+30-July:
+  Made 10 alphabet patterns in C++ using for loop
