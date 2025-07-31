@@ -28,3 +28,5 @@ DAY 09:
   Practiced different pyramids of * and a hollow square pattern in C++
 30-July:
   Made 10 alphabet patterns in C++ using for loop
+31-July:
+  Used arrays to find maximun and minimun number
