@@ -30,3 +30,5 @@ DAY 09:
   Made 10 alphabet patterns in C++ using for loop
 31-July:
   Used arrays to find maximun and minimun number
+01-August:
+  Practiced Arrays in C++
