@@ -32,3 +32,5 @@ DAY 09:
   Used arrays to find maximun and minimun number
 01-August:
   Practiced Arrays in C++
+02-August:
+  Practiced Arrays in C++
