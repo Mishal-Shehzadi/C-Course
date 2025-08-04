@@ -36,3 +36,5 @@ DAY 09:
   Practiced Arrays in C++
 03-August:
   Practiced Arrays in C++
+04-August:
+  Practiced Arrays and Vectors in C++
