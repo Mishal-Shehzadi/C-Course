@@ -38,3 +38,5 @@ DAY 09:
   Practiced Arrays in C++
 04-August:
   Practiced Arrays and Vectors in C++
+05-August:
+ Downloaded VS code and practiced previous concepts on it
