@@ -42,3 +42,5 @@ DAY 09:
  Downloaded VS code and practiced previous concepts on it
 06-August:
  Practiced strings again
+07-August:
+ Done Structures in C++
