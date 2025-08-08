@@ -44,3 +44,5 @@ DAY 09:
  Practiced strings again
 07-August:
  Done Structures in C++
+08-August:
+ Enumeration
