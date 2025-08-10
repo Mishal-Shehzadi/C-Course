@@ -48,3 +48,5 @@ DAY 09:
  Enumeration
 09-August:
  Pointers
+10-August:
+ Practiced previous concepts
