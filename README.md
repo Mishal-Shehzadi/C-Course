@@ -50,3 +50,5 @@ DAY 09:
  Pointers
 10-August:
  Practiced previous concepts
+11-August:
+ Practiced previous concepts
