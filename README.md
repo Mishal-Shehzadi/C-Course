@@ -54,3 +54,5 @@ DAY 09:
  Practiced previous concepts
 12-August:
  Functions
+13-August:
+ Functions
