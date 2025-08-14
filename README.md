@@ -56,3 +56,5 @@ DAY 09:
  Functions
 13-August:
  Functions
+14-August:
+ Started C++ from Scratch
