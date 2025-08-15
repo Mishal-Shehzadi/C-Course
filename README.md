@@ -58,3 +58,5 @@ DAY 09:
  Functions
 14-August:
  Started C++ from Scratch
+15-August:
+ If else and loop
