@@ -62,3 +62,5 @@ DAY 09:
  If else and loop
 16-August:
  loops program (10 programs)
+17-August:
+ pattern problems (01)
