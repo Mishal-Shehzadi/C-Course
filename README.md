@@ -64,3 +64,5 @@ DAY 09:
  loops program (10 programs)
 17-August:
  pattern problems (01)
+18-August:
+ pattern problems (01)
