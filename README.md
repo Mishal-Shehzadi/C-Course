@@ -66,3 +66,5 @@ DAY 09:
  pattern problems (01)
 18-August:
  pattern problems (01)
+19-August:
+ Pattern problems (03)
