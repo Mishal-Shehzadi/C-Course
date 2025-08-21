@@ -70,3 +70,5 @@ DAY 09:
  Pattern problems (03)
 20-August:
  Pattern problems (04)
+21-August:
+ Pattern problems practice
