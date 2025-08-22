@@ -72,3 +72,5 @@ DAY 09:
  Pattern problems (04)
 21-August:
  Pattern problems practice and Operators 
+22-August:
+While loop, do while loop, switch, break, continue
