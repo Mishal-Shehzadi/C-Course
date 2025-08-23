@@ -73,4 +73,6 @@ DAY 09:
 21-August:
  Pattern problems practice and Operators 
 22-August:
-While loop, do while loop, switch, break, continue
+ While loop, do while loop, switch, break, continue
+28-August:
+ Decimal to binary
