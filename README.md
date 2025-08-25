@@ -78,4 +78,6 @@ DAY 09:
  Decimal to binary
 24-August:
  Functions
+25-August:
+ Problems
  
