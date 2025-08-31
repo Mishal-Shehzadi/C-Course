@@ -90,3 +90,5 @@ DAY 09:
  Practice
 30-August:
  Practice
+31-August:
+ Practice
