@@ -96,3 +96,5 @@ DAY 09:
  Practice
 02-September:
  Practiced patterns
+03-September:
+ Practiced Patterns
