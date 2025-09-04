@@ -98,3 +98,5 @@ DAY 09:
  Practiced patterns
 03-September:
  Practiced Patterns
+04-September:
+ While and do/while loop
