@@ -102,3 +102,5 @@ DAY 09:
  While and do/while loop
 05-September:
  Practice
+06-September:
+ Arrays
