@@ -104,3 +104,5 @@ DAY 09:
  Practice
 06-September:
  Arrays
+07-September:
+ Arrays and a few tasks of strings
