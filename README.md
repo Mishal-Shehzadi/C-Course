@@ -108,3 +108,5 @@ DAY 09:
  Arrays and a few tasks of strings
 08-September:
  Arrays 
+09-September:
+ Arrays problems
