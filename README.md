@@ -110,3 +110,5 @@ DAY 09:
  Arrays 
 09-September:
  Arrays problems
+10-September:
+Practice
