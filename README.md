@@ -114,3 +114,5 @@ DAY 09:
 Practice
 11-September:
 Practice
+12-September:
+2D arrays
