@@ -120,3 +120,6 @@ Practice
 Transpose matrix
 14-September:
 Rotate Matrix by 90, 180 and 270 degrees
+15-September:
+Practice
+
