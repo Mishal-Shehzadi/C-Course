@@ -180,6 +180,9 @@ Practice
 Practice
 16-October:
 Practice
+17-October:
+Practice of Arrays and loops
+
 
 
 
