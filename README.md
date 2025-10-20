@@ -186,6 +186,8 @@ Practice of Arrays and loops
 Practice
 19-October:
 Practice
+20-October:
+Practice
 
 
 
